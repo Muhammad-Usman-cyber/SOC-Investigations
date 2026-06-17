@@ -223,7 +223,7 @@ SOC-Investigations/
 
 ## Connect
 
-- 🌐 **Main Portfolio:** [github.com/Muhammad-Usman-cyber](https://github.com/Muhammad-Usman-cyber)
+- 🌐 **Main Portfolio:** [github.com/Muhammad-Usman-cyber](https://github.com/Muhammad-Usman-cyber/Portfolio)
 - 💼 **LinkedIn:** [muhammad-usman-cyber](https://www.linkedin.com/in/muhammad-usman-cyber)
 - 🎯 **TryHackMe:** [muhammadusman.khurram2007](https://tryhackme.com/p/muhammadusman.khurram2007)
 - 📧 **Email:** [muhammadusman.khurram2007@gmail.com](mailto:muhammadusman.khurram2007@gmail.com)
