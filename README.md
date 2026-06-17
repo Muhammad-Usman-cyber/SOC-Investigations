@@ -4,7 +4,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/muhammadusman.khurram2007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-cyber)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=flat&logo=github)](https://github.com/Muhammad-Usman-cyber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=flat&logo=github)](https://github.com/Muhammad-Usman-cyber/Portfolio)
 
 ---
 
