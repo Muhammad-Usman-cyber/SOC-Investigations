@@ -1,1 +1,20 @@
 
+# TryHackMe: Tempest - Incident Response Write-up
+
+## 📖 Room Description
+This room aims to introduce the process of analysing endpoint and network logs from a compromised asset. Given the artefacts, we will aim to uncover the incident from the Tempest machine. In this scenario, you will be tasked to be one of the Incident Responders that will focus on handling and analysing the captured artefacts of a compromised machine.
+
+---
+
+## 🔍 Investigation Overview
+* **Target Machine:** Tempest
+* **Role:** Incident Responder
+* **Objective:** Analyze endpoint and network logs to reconstruct the attack timeline, identify the initial access vector, and uncover malicious persistence or actions.
+
+---
+
+## 🛠️ Methodology & Tools Used
+*(Tip: Update this section with the actual tools you used, such as Wireshark, Brim/Zeek, Event Viewer, CyberChef, etc.)*
+* **Network Analysis:** [e.g., Wireshark / Tshark]
+* **Endpoint Analysis:** [e.g., Windows Event Logs / Sysmon]
+* **Artifact Parsing:** [e.g., EvtxECmd / Volatility]
