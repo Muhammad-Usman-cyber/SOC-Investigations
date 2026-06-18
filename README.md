@@ -62,8 +62,6 @@ These are not guided tutorials — they are independent investigations conducted
 | T1041 | Exfiltration Over C2 Channel |
 | T1082 | System Information Discovery |
 
-👉 [View Full Tempest Writeup](./Tempest/README.md)
-
 ---
 
 ## 🔵 Boogeyman 1
@@ -88,7 +86,6 @@ These are not guided tutorials — they are independent investigations conducted
 | T1547 | Boot or Logon Autostart Execution |
 | T1204 | User Execution |
 
-👉 [View Full Boogeyman 1 Writeup](./Boogeyman-1/README.md)
 
 ---
 
@@ -115,7 +112,6 @@ These are not guided tutorials — they are independent investigations conducted
 | T1112 | Modify Registry |
 | T1070 | Indicator Removal |
 
-👉 [View Full Boogeyman 2 Writeup](./Boogeyman-2/README.md)
 
 ---
 
@@ -142,7 +138,6 @@ These are not guided tutorials — they are independent investigations conducted
 | T1005 | Data from Local System |
 | T1041 | Exfiltration Over C2 Channel |
 
-👉 [View Full Boogeyman 3 Writeup](./Boogeyman-3/README.md)
 
 ---
 
@@ -184,31 +179,6 @@ Every investigation in this repository follows this structured SOC analyst appro
 
 ---
 
-## Repository Structure
-
-```
-SOC-Investigations/
-│
-├── README.md                  ← You are here
-│
-├── Tempest/
-│   ├── README.md              ← Full investigation writeup
-│   └── screenshots/           ← Evidence screenshots
-│
-├── Boogeyman-1/
-│   ├── README.md
-│   └── screenshots/
-│
-├── Boogeyman-2/
-│   ├── README.md
-│   └── screenshots/
-│
-└── Boogeyman-3/
-    ├── README.md
-    └── screenshots/
-```
-
----
 
 ## Coming Soon
 
