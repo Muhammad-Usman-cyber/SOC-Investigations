@@ -2,7 +2,7 @@
 
 > Real-world SOC investigations completed as part of the **TryHackMe SOC Level 1 Learning Path** (65 hours 29 minutes) — completed 17th June 2026.
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/muhammadusman.khurram2007)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%102%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/muhammadusman.khurram2007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-cyber)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=flat&logo=github)](https://github.com/Muhammad-Usman-cyber/Portfolio)
 
@@ -200,5 +200,5 @@ Every investigation in this repository follows this structured SOC analyst appro
 
 ---
 
-*SOC L1 Learning Path completed 17th June 2026 — 65 hours 29 minutes | TryHackMe Top 2% Globally*
+*SOC L1 Learning Path completed 17th June 2026 — 65 hours 29 minutes | TryHackMe Top 1% Globally*
 
